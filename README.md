@@ -1,4 +1,4 @@
-<h1 align = "center"> <strong> Bem Vindo, meu nome é Matheus Rafael </strong> </h1>
+<h1 align = "center"> <strong> 👋 Bem Vindo, meu nome é Matheus Rafael </strong> </h1>
 
 <p align = "center"> <img src="https://github.com/MatheusRafas/Matheus-Rafael/assets/122946104/6e68f16a-590c-41e5-9749-642a9c31e590" width = "500px"/> </p>
 
