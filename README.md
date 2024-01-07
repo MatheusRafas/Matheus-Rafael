@@ -24,6 +24,7 @@
 <h3>LINGUAGENS</h3>
   <code><img heigth="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img heigth="70" width="70" src="https://img.icons8.com/color/48/000000/python.png"></code>
+  <code><img heigth="70" width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP26NkJUeA6sZDX-L0VBhBf19VIhoUs0Ye71eoUqbWu15khMYshT6wqD8xfySIYPf2sCk&usqp=CAU"></code>
 
 <h3>FRONT-END</h3>
   <code><img heigth="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
