@@ -7,7 +7,9 @@
   
   - 👨‍🎓 Graduado em Administração pela [PUC MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx).
     
-  - 👨‍💻 Pós Graduação em Desenvolvimento Web Full Stack pela [PUC MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx) <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" width = "120px" />.
+  - 👨‍💻 Pós Graduação em Desenvolvimento Web Full Stack pela [PUC MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx)
+  
+  - Análise e Desenvolvimento de sistemas <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" width = "120px" />.
     
   - 🌎 Inglês: Intermediário.
     
